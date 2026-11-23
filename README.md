@@ -4,7 +4,7 @@ This repository collects the work carried out during the **Artificial Neural Net
 
 ## About the course
 
-The course provides a broad introduction to neural networks (NNs), ranging from traditional feedforward (FFNNs) and recurrent (RNNs) networks to the most successful deep learning models, such as convolutional neural networks (CNNs) and long short-term memory (LSTM) networks. Application areas include time series modeling, gene expression modeling, and image recognition.
+The course provides an introduction to neural networks (NNs), ranging from traditional feedforward (FFNNs) and recurrent (RNNs) networks to the most successful deep learning models, such as convolutional neural networks (CNNs) and long short-term memory (LSTM) networks. Application areas include time series modeling, gene expression modeling, and image recognition.
 
 ## Projects
 
