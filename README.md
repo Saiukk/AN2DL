@@ -60,9 +60,6 @@ The course hands-on component consisted of two challenges. Both were evaluated w
 │   └── report.pdf
 └── README.md
 ```
-
-*(Adjust the paths above to match the final layout of the repository.)*
-
 ## Tools and technologies
 
 - Python
@@ -71,6 +68,4 @@ The course hands-on component consisted of two challenges. Both were evaluated w
 - Matplotlib
 - Kaggle / Google Colab (GPU)
 
-## Notes
 
-This repository is for educational purposes and documents coursework done within the AN2DL course at Politecnico di Milano.
