@@ -26,8 +26,9 @@ The course hands-on component consisted of two challenges. Both were evaluated w
 **Our approach.** An ensemble of bidirectional GRU networks with an attention layer, trained on sliding windows with focal loss to handle class imbalance. Hyperparameters were tuned with cross-validation, and the predictions of the best models were combined with soft voting.
 
 **Resources.**
-- 📄 Report: 
-- 📓 Notebook: 
+- 📄 Report: [Report_Challenge1_TigerTensors.pdf](challenge1-time-series/Report_Challenge1_TigerTensors.pdf)
+- 📓 Notebook: [Challenge_KFoldAttention_WellCommented.ipynb](challenge1-time-series/Challenge_KFoldAttention_WellCommented.ipynb)
+
 
 ---
 
@@ -40,8 +41,8 @@ The course hands-on component consisted of two challenges. Both were evaluated w
 **Our approach.** A dual-path network: a ConvNeXt-Tiny backbone processes the RGB patches while a small auxiliary CNN processes the corresponding mask patches. Patch features are fused and aggregated with attention-based Multiple Instance Learning, and the final predictions are combined with soft voting.
 
 **Resources.**
-- 📄 Report: 
-- 📓 Notebook: 
+- 📄 Report: [Report_Challenge2_TigerTensor.pdf](challenge2-image-classification/Report_Challenge2_TigerTensor.pdf)
+- 📓 Main Notebook: [traininingOptuna_toEvaluate.ipynb](challenge2-image-classification/traininingOptuna_toEvaluate.ipynb)
 
 ---
 
