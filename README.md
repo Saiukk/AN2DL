@@ -50,10 +50,12 @@ The course hands-on component consisted of two challenges. Both were evaluated w
 ```
 .
 ├── challenge1-time-series/
-│   ├── notebook.ipynb
+│   ├── outlierDetection_toEvaluate.ipynb (to find outliers)
+│   ├── visualizePatches_toEvaluate.ipynb (to visualize the augmentation)
+│   ├── traininingOptuna_toEvaluate.ipynb (the model trained file)
 │   └── report.pdf
 ├── challenge2-image-classification/
-│   ├── notebook.ipynb
+│   ├── Challenge_KFoldAttention_WellCommented.ipynb
 │   └── report.pdf
 └── README.md
 ```
